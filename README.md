@@ -24,5 +24,5 @@ Comment supprimer le bruit se trouvant dans les hautes fréquences spatiales du 
 3) Finalement, la reconstruction revient à la conposition des signaux initiaux avec la partie AC filtrée tel que d'= H(AC) + DC.
 
 ### Résultat  
-L'algorithme est fonctionnel (HL/HL_filter/HL_Filter.cpp).  
+L'algorithme est fonctionnel [HL/HL_filter/HL_Filter.cpp](../master/HL/HL_filter/HL_filter.cpp).
 Aucune preuve.
